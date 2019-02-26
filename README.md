@@ -18,11 +18,11 @@ For Ensemble learning, we have run 3 CNN models namely:
 1. MobileNetV2
 2. DenseNet121
 3. NasNetMobile
+
 and at last, we took 3 separate results from the 3 models and taken max voting in prediction stage.
 
 **Concatenation Model**:
-It joins( concatenate ) the output of features extracted by ( output  of globalpooling layer from this two model)   MobileNET and   DenseNet121. 
-
+It joins( concatenate ) the output of features extracted by ( output  of globalpooling layer from this two model)   MobileNET and   DenseNet121.  
 This is a stronger model .
 
 
