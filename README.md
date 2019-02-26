@@ -38,6 +38,6 @@ We have initialized the layers with the pre-trained model weights but then we ha
 ## Result:
 The Accuracies of the models implemented on our dataset are given below:
 
-Ensemble: 75.33
-Single: 80.0
+Ensemble: 75.33  
+Single: 80.0  
 Autoencoder: 81.79
