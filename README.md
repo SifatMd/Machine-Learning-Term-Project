@@ -21,10 +21,6 @@ For Ensemble learning, we have run 3 CNN models namely:
 
 and at last, we took 3 separate results from the 3 models and taken max voting in prediction stage.
 
-**Concatenation Model**:
-It joins( concatenate ) the output of features extracted by ( output  of globalpooling layer from this two model)   MobileNET and   DenseNet121.  
-This is a stronger model .
-
 
 **Single Model**:
 We ran Mobilenet as a single model.
